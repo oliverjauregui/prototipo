@@ -333,6 +333,7 @@ i {
 	display: flex;
 	justify-content: space-around;
 	padding: 60px;
+	flex-wrap: wrap;
 }
 
 .info {
@@ -407,5 +408,7 @@ footer {
 	padding: 53px;
 }
 
-
+.social-holder i {
+	color: white;
+}
 
